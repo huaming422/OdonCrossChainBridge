@@ -111,3 +111,4 @@ CoinHippo Bridge is a simplified bridge app built based on [Connext's nxtp proto
   - etc.
 
  Now you are ready to deploy your Dapp. Enjoy! :)
+

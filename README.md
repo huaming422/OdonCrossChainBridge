@@ -1,4 +1,4 @@
-# Bridge | CoinHippo
+# Odon Bridge | CoinHippo
 
 CoinHippo Bridge is a simplified bridge app built based on [Connext's nxtp protocol](https://github.com/connext/nxtp) and subgraph technology. It is designed and built as the starter framework to be easily forked and used as the foundation of cross-chain bridge applications for any project.
 
